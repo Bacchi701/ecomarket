@@ -25,7 +25,7 @@ public class ProductoController {
     private ProductoService productoService;
 
     @GetMapping
-    public List<Producto> listarpProductos() {
+    public List<Producto> listarProductos() {
         return productoService.getProductos();
     }
 
