@@ -31,4 +31,4 @@ public class Cliente {
     @Column(nullable=false)
     private String direccionEnvio;
     
-}
+} // id, run, nombre, apellido, correo, direccionEnvio

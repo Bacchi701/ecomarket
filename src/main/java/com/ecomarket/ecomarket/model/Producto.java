@@ -15,4 +15,4 @@ public class Producto {
     private int precio;
     private int cantidad;
     
-}
+} // id, nombre, descripcion, precio, cantidad

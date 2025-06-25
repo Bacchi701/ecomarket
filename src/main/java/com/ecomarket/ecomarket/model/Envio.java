@@ -15,4 +15,4 @@ public class Envio {
     private String fechaCompra;
     private String fechaEntrega;
 
-}
+} //id, idProducto, runComprador, fechaCompra, fechaEntrega
